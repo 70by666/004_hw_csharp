@@ -32,9 +32,6 @@ dynamic Task25(dynamic arg1, dynamic arg2)
 }
 
 
-System.Console.WriteLine();
-
-
 System.Console.WriteLine($"task 25 = {Task25(3, 5)}");
 System.Console.WriteLine($"task 25 = {Task25(2, 4)}");
 System.Console.WriteLine($"task 25 = {Task25(5, 3)}");
